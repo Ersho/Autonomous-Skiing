@@ -1,5 +1,5 @@
 # Autonomous-Skiing
-Experiment on simulator for Autonomous skiing
+Experiment on simulator for Autonomous skiing on the Game SNOW. http://www.snowthegame.com/
 
 ## Libraries used
   * Opencv
@@ -19,6 +19,10 @@ Experiment on simulator for Autonomous skiing
 ```bash
 python main.py
 ```
+
+## Demo 
+
+![Alt Text](https://media.giphy.com/media/SVNReYJ4qTZgaNQP0W/giphy.gif)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
